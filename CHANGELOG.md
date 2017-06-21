@@ -2,6 +2,10 @@
 
 ## [Unreleased]
 
+## [0.0.3] - 2017-06-21
+### Changed
+- Changed cursor color and selected file background color in the file list.
+
 ## [0.0.2] - 2017-06-21
 ### Changed
 - Changed the title bar background color (Mac OS only).
