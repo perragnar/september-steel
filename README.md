@@ -1,13 +1,13 @@
-# README
-## This is the README for your extension "september-steel"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# September Steel
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+**September Steel** is a dark theme for Visual Studio Code with a Material theme feel to the UI. The syntax is cut 'n paste from [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) by [Joshua Azemoh](https://marketplace.visualstudio.com/search?term=publisher%3A%22Joshua%20Azemoh%22&target=VSCode).
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Enjoy!
 
-**Enjoy!**
+## Screenshot
+
+![Screenshot](https://raw.githubusercontent.com/perragnar/september-steel/master/screenshots/screenshot.png)
+
+## Credit
+
+**September Steel** is based on [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) by [Joshua Azemoh](https://marketplace.visualstudio.com/search?term=publisher%3A%22Joshua%20Azemoh%22&target=VSCode).
