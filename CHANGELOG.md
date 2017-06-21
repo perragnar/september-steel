@@ -1,7 +1,11 @@
 # Change Log
-All notable changes to the "september-steel" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 ## [Unreleased]
+
+## [0.0.2] - 2017-06-21
+### Changed
+- Changed the title bar background color (Mac OS only).
+
+## [0.0.1] - 2017-06-21
+### Added
 - Initial release
