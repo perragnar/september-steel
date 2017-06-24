@@ -1,14 +1,25 @@
 {
     "name": "september-steel",
     "displayName": "September Steel",
-    "description": "A dark theme based on One Monokai Theme by Joshua Azemoh.",
-    "version": "0.0.3",
+    "description": "A dark flat theme based on One Monokai Theme by Joshua Azemoh.",
+    "version": "0.0.4",
     "publisher": "perragnaredin",
     "engines": {
         "vscode": "^1.12.0"
     },
     "categories": [
         "Themes"
+    ],
+    "galleryBanner": {
+		"color": "#2f333d",
+		"theme": "dark"
+	},
+    "Keywords": [
+        "flat",
+        "theme",
+        "dark",
+        "steel",
+        "one monokai"
     ],
     "contributes": {
         "themes": [

@@ -1,7 +1,5 @@
 # Change Log
 
-## [Unreleased]
-
 ## [0.0.3] - 2017-06-21
 ### Changed
 - Changed cursor color and selected file background color in the file list.
