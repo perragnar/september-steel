@@ -6,9 +6,10 @@ The icon theme in the screenshot is [Material Icon Theme](https://marketplace.vi
 
 Enjoy!
 
-## Screenshot
+## Screenshots
 
 ![Screenshot](https://raw.githubusercontent.com/perragnar/september-steel/master/images/screenshots/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/perragnar/september-steel/master/images/screenshots/screenshot-2.png)
 
 ## Credit
 
