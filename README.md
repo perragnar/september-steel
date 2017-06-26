@@ -8,7 +8,7 @@ Enjoy!
 
 ## Screenshot
 
-![Screenshot](https://raw.githubusercontent.com/perragnar/september-steel/master/screenshots/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/perragnar/september-steel/master/images/screenshots/screenshot.png)
 
 ## Credit
 
