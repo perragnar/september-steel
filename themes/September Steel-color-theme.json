@@ -58,7 +58,8 @@
 		"editorSuggestWidget.background": "#21252b",
 		"editorSuggestWidget.border": "#181a1f",
 		"editorSuggestWidget.selectedBackground": "#2c313a",
-		"statusBar.debuggingBackground": "#21252b"
+		"statusBar.debuggingBackground": "#21252b",
+		"editor.hoverHighlightBackground": "#a53500"
 	},
 	"tokenColors": [
 		{
