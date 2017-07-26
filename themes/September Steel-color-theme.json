@@ -87,10 +87,18 @@
 			}
 		},
 		{
+			"name": "String",
+			"scope": "string.quoted.double.html",
+			"settings": {
+				"foreground": "#e5c07b",
+				"fontStyle": "italic"
+			}
+		},
+		{
 			"name": "js template-expression",
 			"scope": "punctuation.definition.template-expression.begin.js,punctuation.definition.template-expression.end.js,punctuation.definition.template-expression.begin.ts,punctuation.definition.template-expression.end.ts",
 			"settings": {
-				"foreground": "#c678dd"
+				"foreground": "#d27de5"
 			}
 		},
 		{
@@ -111,7 +119,7 @@
 			"name": "Number",
 			"scope": "constant.numeric",
 			"settings": {
-				"foreground": "#c678dd"
+				"foreground": "#d27de5"
 			}
 		},
 		{
@@ -121,7 +129,7 @@
 				"string.embedded.end"
 			],
 			"settings": {
-				"foreground": "#c678dd"
+				"foreground": "#d27de5"
 			}
 		},
 		{
@@ -378,7 +386,7 @@
 				"unit.sass"
 			],
 			"settings": {
-				"foreground": "#c678dd"
+				"foreground": "#d27de5"
 			}
 		},
 		{
@@ -404,7 +412,7 @@
 			"name": "Invalid",
 			"scope": "invalid",
 			"settings": {
-				"background": "#c678dd",
+				"background": "#d27de5",
 				"foreground": "#F8F8F0"
 			}
 		},
@@ -444,7 +452,7 @@
 			"name": "diff.deleted",
 			"scope": "markup.deleted",
 			"settings": {
-				"foreground": "#c678dd"
+				"foreground": "#d27de5"
 			}
 		},
 		{
