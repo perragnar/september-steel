@@ -8,7 +8,11 @@ I'm trying different color settings in v 0.0.13. Let me know if you don't like i
 
 Enjoy!
 
-## Screenshots
+## Screenshots (v 0.0.13)
+
+![Screenshot](https://raw.githubusercontent.com/perragnar/september-steel/master/images/screenshots/screenshot-3.png)
+
+## Screenshots (v 0.0.12)
 
 ![Screenshot](https://raw.githubusercontent.com/perragnar/september-steel/master/images/screenshots/screenshot.png)
 
