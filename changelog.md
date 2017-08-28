@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.1.4]
+
+- Made Markdown headers bold.
+- New screenshots.
+
 ## [0.1.3]
 
 - Changed Markdown syntax color for `markup.fenced_code.block.markdow`to be the same as inline code (`markup.inline.raw.markdown`) and raw code block (`markup.raw.block.markdow`).
