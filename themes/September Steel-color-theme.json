@@ -613,7 +613,8 @@
 		{
 			"scope": [
 				"markup.inline.raw.markdown",
-				"markup.raw.block.markdown"
+				"markup.raw.block.markdown",
+				"markup.fenced_code.block.markdown"
 			],
 			"settings": {
 				"foreground": "#61afef"
