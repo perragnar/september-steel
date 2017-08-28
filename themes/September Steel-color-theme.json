@@ -520,7 +520,8 @@
 		{
 			"scope": "markup.heading.markdown",
 			"settings": {
-				"foreground": "#5c6370"
+				"foreground": "#5c6370",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -529,7 +530,8 @@
 				"markup.heading.setext.2.markdown"
 			],
 			"settings": {
-				"foreground": "#f7be4f"
+				"foreground": "#f7be4f",
+				"fontStyle": "bold"
 			}
 		},
 		{
