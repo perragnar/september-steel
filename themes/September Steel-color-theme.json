@@ -539,7 +539,8 @@
 				"punctuation.definition.string.end.markdown",
 				"punctuation.definition.string.begin.markdown",
 				"punctuation.definition.markdown",
-				"punctuation.definition.raw.markdown"
+				"punctuation.definition.raw.markdown",
+				"beginning.punctuation.definition.list.markdown"
 			],
 			"settings": {
 				"foreground": "#5c6370"
@@ -578,6 +579,23 @@
 			],
 			"settings": {
 				"foreground": "#E06B74"
+			}
+		},
+		{
+			"scope": [
+				"markup.list.unnumbered.markdown"
+			],
+			"settings": {
+				"foreground": "#e5c07b"
+			}
+		},
+		{
+			"scope": [
+				"markup.inline.raw.markdown",
+				"markup.raw.block.markdown"
+			],
+			"settings": {
+				"foreground": "#98c379"
 			}
 		}
 	],
