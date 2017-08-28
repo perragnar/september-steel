@@ -2,6 +2,15 @@
 	"name": "September Steel",
 	"type": "dark",
 	"colors": {
+		"editorSuggestWidget.selectedBackground": "#1B80B2",
+    "editor.findMatchBackground": "#0088FF",
+    "editor.findMatchHighlightBackground": "#0087FF55",
+    "editor.selectionBackground": "#000000aa",
+    "editor.selectionHighlightBackground": "#00000044",
+    "list.focusBackground": "#1B80B2",
+    "editorCodeLens.foreground": "#5c6370",
+    "editorBracketMatch.background": "#a53500",
+    "editorBracketMatch.border": "#a53500",
 		"tab.activeBackground": "#2F333D",
 		"tab.inactiveBackground": "#282C34",
 		"panel.border": "#23272e",
@@ -24,7 +33,6 @@
 		"input.background": "#1d1f23",
 		"dropdown.background": "#1d1f23",
 		"dropdown.border": "#181a1f",
-		"list.focusBackground": "#383e4a",
 		"list.activeSelectionBackground": "#3b404b",
 		"list.activeSelectionForeground": "#d7dae0",
 		"list.inactiveSelectionBackground": "#3b404b",
@@ -38,8 +46,6 @@
 		"scrollbarSlider.activeBackground": "#747d9180",
 		"editor.background": "#2f333d",
 		"editorWidget.background": "#21252b",
-		"editor.selectionBackground": "#3e4451",
-		"editor.findMatchHighlightBackground": "#314365",
 		"editorHoverWidget.background": "#21252b",
 		"editorHoverWidget.border": "#181a1f",
 		"diffEditor.insertedTextBackground": "#00809b33",
@@ -66,7 +72,6 @@
 		"notification.background": "#21252b",
 		"editorSuggestWidget.background": "#21252b",
 		"editorSuggestWidget.border": "#181a1f",
-		"editorSuggestWidget.selectedBackground": "#2c313a",
 		"statusBar.debuggingBackground": "#21252b",
 		"editor.hoverHighlightBackground": "#a53500"
 	},
@@ -519,6 +524,15 @@
 			}
 		},
 		{
+			"scope": [
+				"markup.heading.setext.1.markdown",
+				"markup.heading.setext.2.markdown"
+			],
+			"settings": {
+				"foreground": "#f7be4f"
+			}
+		},
+		{
 			"scope": "entity.name.section.markdown",
 			"settings": {
 				"foreground": "#f7be4f"
@@ -539,11 +553,18 @@
 				"punctuation.definition.string.end.markdown",
 				"punctuation.definition.string.begin.markdown",
 				"punctuation.definition.markdown",
-				"punctuation.definition.raw.markdown",
-				"beginning.punctuation.definition.list.markdown"
+				"punctuation.definition.raw.markdown"
 			],
 			"settings": {
 				"foreground": "#5c6370"
+			}
+		},
+		{
+			"scope": [
+				"beginning.punctuation.definition.list.markdown"
+			],
+			"settings": {
+				"foreground": "#98c379"
 			}
 		},
 		{
@@ -595,7 +616,33 @@
 				"markup.raw.block.markdown"
 			],
 			"settings": {
-				"foreground": "#98c379"
+				"foreground": "#61afef"
+			}
+		},
+		{
+			"scope": [
+				"punctuation.definition.constant.begin.markdown",
+				"punctuation.definition.constant.end.markdown",
+				"punctuation.definition.link.markdown"
+			],
+			"settings": {
+				"foreground": "#5c6370"
+			}
+		},
+		{
+			"scope": [
+				"meta.separator.markdown"
+			],
+			"settings": {
+				"foreground": "#5c6370"
+			}
+		},
+		{
+			"scope": [
+				"constant.other.reference.link.markdown"
+			],
+			"settings": {
+				"foreground": "#e06c75"
 			}
 		}
 	],
