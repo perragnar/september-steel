@@ -1,22 +1,34 @@
 # September Steel
 
-**September Steel** is a dark and flat theme for Visual Studio Code with a Material theme feel to the UI. The syntax colors are cut 'n pasted from [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) by [Joshua Azemoh](https://marketplace.visualstudio.com/search?term=publisher%3A%22Joshua%20Azemoh%22&target=VSCode).
+**September Steel** is a dark theme for Visual Studio Code based on [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) by [Joshua Azemoh](https://marketplace.visualstudio.com/search?term=publisher%3A%22Joshua%20Azemoh%22&target=VSCode).
 
 The icon theme in the screenshot is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) by [Philipp Kief](https://marketplace.visualstudio.com/search?term=publisher%3A%22Philipp%20Kief%22&target=VSCode&category=All%20categories&sortBy=Relevance).
 
-I'm trying different color settings in v 0.0.14. Let me know if you don't like it or if you prefer the previous flatter version.
-
 Enjoy!
 
-## Screenshots (v 0.0.14)
+## Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/perragnar/september-steel/master/images/screenshots/screenshot-3.png)
+#### Syntax highlight: Javascript
+![Syntax highlight: Javascript](https://raw.githubusercontent.com/perragnar/september-steel/master/images/screenshots/syntax-javascript.png)
 
-## Screenshots (v 0.0.12)
+#### Syntax highlight: SCSS
+![Syntax highlight: SCSS](https://raw.githubusercontent.com/perragnar/september-steel/master/images/screenshots/syntax-scss.png)
 
-![Screenshot](https://raw.githubusercontent.com/perragnar/september-steel/master/images/screenshots/screenshot.png)
+#### Syntax highlight: Markdown
+![Syntax highlight: Markdown](https://raw.githubusercontent.com/perragnar/september-steel/master/images/screenshots/syntax-markdown.png)
 
-![Screenshot](https://raw.githubusercontent.com/perragnar/september-steel/master/images/screenshots/screenshot-2.png)
+#### Detail: Tabs
+![Detail: Tabs](https://raw.githubusercontent.com/perragnar/september-steel/master/images/screenshots/detail-tabs.png)
+
+
+#### Detail: Search
+![Detail: Search](https://raw.githubusercontent.com/perragnar/september-steel/master/images/screenshots/detail-search.png)
+
+#### Detail: Source Control
+![Detail: Source Control](https://raw.githubusercontent.com/perragnar/september-steel/master/images/screenshots/detail-source-control.png)
+
+#### Detail: Activity bar
+![Detail: Activity Bar](https://raw.githubusercontent.com/perragnar/september-steel/master/images/screenshots/detail-activity-bar.png)
 
 ## Credit
 
