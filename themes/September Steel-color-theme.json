@@ -73,7 +73,15 @@
 		"editorSuggestWidget.background": "#21252b",
 		"editorSuggestWidget.border": "#181a1f",
 		"statusBar.debuggingBackground": "#21252b",
-		"editor.hoverHighlightBackground": "#a53500"
+		"editor.hoverHighlightBackground": "#a53500",
+		"terminal.ansiBlack": "#1D1F23",
+    "terminal.ansiBlue": "#61afef",
+    "terminal.ansiGreen": "#98c379",
+    "terminal.ansiYellow": "#e5c07b",
+    "terminal.ansiCyan": "#56b6c2",
+    "terminal.ansiRed": "#e06c75",
+    "terminal.ansiMagenta": "#b267e6",
+    "terminal.ansiWhite": "#bbbbbb"
 	},
 	"tokenColors": [
 		{

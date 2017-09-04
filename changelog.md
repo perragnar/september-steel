@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.5]
+
+- Testing colors for integrated terminal.
+
 ## [0.1.4]
 
 - Made Markdown headers bold.
