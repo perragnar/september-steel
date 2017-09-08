@@ -81,7 +81,9 @@
     "terminal.ansiCyan": "#56b6c2",
     "terminal.ansiRed": "#e06c75",
     "terminal.ansiMagenta": "#b267e6",
-    "terminal.ansiWhite": "#bbbbbb"
+    "terminal.ansiWhite": "#bbbbbb",
+		"tab.activeBorder": "#F7A04F",
+    "tab.unfocusedActiveBorder": "#A88950"
 	},
 	"tokenColors": [
 		{

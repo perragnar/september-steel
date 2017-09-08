@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.6]
+
+- New setting for active tab border.
+
 ## [0.1.5]
 
 - Testing colors for integrated terminal.
