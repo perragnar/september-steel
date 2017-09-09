@@ -8,7 +8,6 @@
     "editor.selectionBackground": "#000000aa",
     "editor.selectionHighlightBackground": "#00000044",
     "list.focusBackground": "#1B80B2",
-    "editorCodeLens.foreground": "#5c6370",
     "editorBracketMatch.background": "#a53500",
     "editorBracketMatch.border": "#a53500",
 		"tab.activeBackground": "#2F333D",
@@ -83,7 +82,8 @@
     "terminal.ansiMagenta": "#b267e6",
     "terminal.ansiWhite": "#bbbbbb",
 		"tab.activeBorder": "#F7A04F",
-    "tab.unfocusedActiveBorder": "#A88950"
+		"tab.unfocusedActiveBorder": "#A88950",
+		"editorCodeLens.foreground": "#555B6E"
 	},
 	"tokenColors": [
 		{

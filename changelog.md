@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.7]
+
+- Changed codelens color. Let me know if it's too subtle.
+
 ## [0.1.6]
 
 - New setting for active tab border.

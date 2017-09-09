@@ -2,9 +2,10 @@
 
 **September Steel** is a dark theme for Visual Studio Code based on [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) by [Joshua Azemoh](https://marketplace.visualstudio.com/search?term=publisher%3A%22Joshua%20Azemoh%22&target=VSCode).
 
-The icon theme in the screenshot is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) by [Philipp Kief](https://marketplace.visualstudio.com/search?term=publisher%3A%22Philipp%20Kief%22&target=VSCode&category=All%20categories&sortBy=Relevance).
-
 Enjoy!
+
+Btw... Hey [Stephan](https://marketplace.visualstudio.com/items?itemName=devbowser.dev-steel#overview), I see what you did there! At least you could rewrite your change log and take new screenshots. :D
+
 
 ## Screenshots
 
@@ -33,3 +34,5 @@ Enjoy!
 ## Credit
 
 **September Steel** is based on [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) by [Joshua Azemoh](https://marketplace.visualstudio.com/search?term=publisher%3A%22Joshua%20Azemoh%22&target=VSCode).
+
+The icon theme in the screenshot is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) by [Philipp Kief](https://marketplace.visualstudio.com/search?term=publisher%3A%22Philipp%20Kief%22&target=VSCode&category=All%20categories&sortBy=Relevance).
