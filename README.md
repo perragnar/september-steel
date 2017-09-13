@@ -4,9 +4,6 @@
 
 Enjoy!
 
-Btw... Hey [Stephan](https://marketplace.visualstudio.com/items?itemName=devbowser.dev-steel#overview), I see what you did there! At least you could rewrite your change log and take new screenshots. :D
-
-
 ## Screenshots
 
 #### Syntax highlight: Javascript
@@ -21,7 +18,6 @@ Btw... Hey [Stephan](https://marketplace.visualstudio.com/items?itemName=devbows
 #### Detail: Tabs
 ![Detail: Tabs](https://raw.githubusercontent.com/perragnar/september-steel/master/images/screenshots/detail-tabs.png)
 
-
 #### Detail: Search
 ![Detail: Search](https://raw.githubusercontent.com/perragnar/september-steel/master/images/screenshots/detail-search.png)
 
@@ -30,6 +26,9 @@ Btw... Hey [Stephan](https://marketplace.visualstudio.com/items?itemName=devbows
 
 #### Detail: Activity bar
 ![Detail: Activity Bar](https://raw.githubusercontent.com/perragnar/september-steel/master/images/screenshots/detail-activity-bar.png)
+
+#### Compact
+![Compact](https://raw.githubusercontent.com/perragnar/september-steel/master/images/screenshots/bonus-compact-coding.png)
 
 ## Credit
 

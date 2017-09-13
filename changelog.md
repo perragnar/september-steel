@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.8]
+
+- Added a missing screenshot and update readme.
+
 ## [0.1.7]
 
 - Changed codelens color. Let me know if it's too subtle.
