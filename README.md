@@ -4,6 +4,8 @@
 
 Enjoy!
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/perragnaredin.september-steel.svg)](https://marketplace.visualstudio.com/items?itemName=perragnaredin.september-steel) ![test](https://vsmarketplacebadge.apphb.com/installs-short/perragnaredin.september-steel.svg)
+
 ## Screenshots
 
 #### Syntax highlight: Javascript
