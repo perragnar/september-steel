@@ -83,7 +83,15 @@
     "terminal.ansiWhite": "#bbbbbb",
 		"tab.activeBorder": "#F7A04F",
 		"tab.unfocusedActiveBorder": "#A88950",
-		"editorCodeLens.foreground": "#555B6E"
+		"editorCodeLens.foreground": "#555B6E",
+		"peekView.border": "#1D1F23",
+    "peekViewEditor.background": "#252931",
+    "peekViewResult.background": "#1e2229",
+    "peekViewTitle.background": "#1D1F23",
+    "peekViewResult.matchHighlightBackground": "#0058a0",
+    "peekViewTitleDescription.foreground": "#aaccff44",
+    "peekViewTitleLabel.foreground": "#ffffff99",
+    "peekViewEditor.matchHighlightBackground": "#0058a0"
 	},
 	"tokenColors": [
 		{

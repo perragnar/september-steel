@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.9]
+
+- PeekView color changes.
+
 ## [0.1.8]
 
 - Added a missing screenshot and update readme.
