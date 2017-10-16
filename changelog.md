@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.13]
+
+- Small sidebar and list color tweaks.
+
 ## [0.1.12]
 
 - I broke the theme.. sorry. Fixed it.
