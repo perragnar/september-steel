@@ -49,7 +49,7 @@
 		"scrollbarSlider.hoverBackground": "#5a637580",
 		"sideBar.background": "#282c34",
 		"sideBar.border": "#23272E",
-		"sideBarSectionHeader.background": "#282c34",
+		"sideBarSectionHeader.background": "#252930",
 		"sideBarTitle.foreground": "#f7be4f",
 		"statusBar.background": "#282c34",
 		"statusBar.border": "#23272E",
@@ -64,6 +64,7 @@
 		"tab.inactiveForeground": "#555d6f",
 		"tab.unfocusedActiveBorder": "#A88950",
 		"terminal.ansiBlack": "#1D1F23",
+		"terminal.background": "#252930",
 		"titleBar.activeBackground": "#282c34",
 		"titleBar.activeForeground": "#9da5b4",
 		"titleBar.border": "#23272E",
@@ -91,7 +92,7 @@
     "terminal.ansiMagenta": "#b267e6",
     "terminal.ansiRed": "#e06c75",
     "terminal.ansiWhite": "#bbbbbb",
-    "terminal.ansiYellow": "#e5c07b",
+    "terminal.ansiYellow": "#e5c07b"
 	},
 	"tokenColors": [
 		{

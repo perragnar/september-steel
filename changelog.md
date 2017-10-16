@@ -1,6 +1,6 @@
 # Change Log
 
-## [0.1.11]
+## [0.1.12]
 
 - I broke the theme.. sorry. Fixed it.
 
