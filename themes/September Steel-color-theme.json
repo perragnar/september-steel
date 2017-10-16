@@ -79,7 +79,7 @@
     "editorBracketMatch.border": "#a53500",
     "list.focusBackground": "#1B80B2",
     "peekViewEditor.background": "#252931",
-    "peekViewEditor.matchHighlightBackground": "#0058a0"
+    "peekViewEditor.matchHighlightBackground": "#0058a0",
     "peekViewResult.background": "#1e2229",
     "peekViewResult.matchHighlightBackground": "#0058a0",
     "peekViewTitle.background": "#1D1F23",

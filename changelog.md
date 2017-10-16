@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.11]
+
+- I broke the theme.. sorry. Fixed it.
+
 ## [0.1.10]
 
 - Made sidebar and activity bar slightly darker since sidebar background color and editor background color were the same.
