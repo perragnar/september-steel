@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.1.14]
+
+- Lighter text in file explorer.
+- New setting in VSCode for showing Git status in file explorer (currently in october insiders release).
+
 ## [0.1.13]
 
 - Small sidebar and list color tweaks.

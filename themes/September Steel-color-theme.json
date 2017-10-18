@@ -1,7 +1,7 @@
 {
   "name": "September Steel",
   "type": "dark",
-  "colors": {
+  "colors": {    
     "activityBar.background": "#23272e",
     "activityBar.border": "#23272E",
     "activityBar.foreground": "#576073",
@@ -65,7 +65,7 @@
     "scrollbarSlider.hoverBackground": "#5a637580",
     "sideBar.background": "#282c34",
     "sideBar.border": "#23272E",
-    "sideBar.foreground": "#535a67",
+    "sideBar.foreground": "#7d8594",
     "sideBarSectionHeader.background": "#00000000",
     "sideBarSectionHeader.foreground": "#ffffff",
     "sideBarTitle.foreground": "#f7be4f",
@@ -95,7 +95,9 @@
     "titleBar.border": "#23272E",
     "titleBar.inactiveBackground": "#282c34",
     "titleBar.inactiveForeground": "#6b717d",
-    "widget.shadow": "#00000055"
+    "widget.shadow": "#00000055",
+    "git.color.modified": "#964800",
+    "git.color.untracked": "#588632"
   },
   "tokenColors": [
     {
