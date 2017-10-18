@@ -96,8 +96,8 @@
     "titleBar.inactiveBackground": "#282c34",
     "titleBar.inactiveForeground": "#6b717d",
     "widget.shadow": "#00000055",
-    "git.color.modified": "#964800",
-    "git.color.untracked": "#588632"
+    "git.color.modified": "#ffe6a6",
+    "git.color.untracked": "#a1bf55"
   },
   "tokenColors": [
     {

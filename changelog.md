@@ -1,6 +1,6 @@
 # Change Log
 
-## [0.1.14]
+## [0.1.15]
 
 - Lighter text in file explorer.
 - New setting in VSCode for showing Git status in file explorer (currently in october insiders release).
