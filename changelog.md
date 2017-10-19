@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.16]
+
+- New setting in VSCode for Git ignored files in file explorer (insiders release).
+
 ## [0.1.15]
 
 - Lighter text in file explorer.
