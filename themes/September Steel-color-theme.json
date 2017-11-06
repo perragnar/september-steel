@@ -1,7 +1,7 @@
 {
   "name": "September Steel",
   "type": "dark",
-  "colors": {    
+  "colors": {
     "activityBar.background": "#23272e",
     "activityBar.border": "#23272E",
     "activityBar.foreground": "#576073",
@@ -99,16 +99,12 @@
     "titleBar.border": "#23272E",
     "titleBar.inactiveBackground": "#282c34",
     "titleBar.inactiveForeground": "#6b717d",
-    "widget.shadow": "#00000055",
-    "git.color.modified": "#ffe6a6",
-    "git.color.untracked": "#a1bf55",
-    "git.color.ignored": "#4b5561"
+    "widget.shadow": "#00000055"
   },
   "tokenColors": [
     {
       "settings": {
-        "foreground": "#bbbbbbff",
-        "background": "#2f333dff"
+        "foreground": "#bbbbbbff"
       }
     },
     {
@@ -453,16 +449,14 @@
       "name": "Invalid",
       "scope": "invalid",
       "settings": {
-        "background": "#d27de5",
-        "foreground": "#F8F8F0"
+        "foreground": "#d27de5"
       }
     },
     {
       "name": "Invalid deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "background": "#56b6c2",
-        "foreground": "#F8F8F0"
+        "foreground": "#56b6c2"
       }
     },
     {

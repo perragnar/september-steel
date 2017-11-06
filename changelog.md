@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.18]
+
+- Removed VSCode Insiders git colors for Git decorations. Waiting until october release is out.
+
 ## [0.1.17]
 
 - Tweaked the paneltitle colors.
