@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.19]
+
+- Themed the new VSCode (1.18.o) feature Git decorations in the file explorer.
+
 ## [0.1.18]
 
 - Removed VSCode Insiders git colors for Git decorations. Waiting until october release is out.
