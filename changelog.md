@@ -1,8 +1,12 @@
 # Change Log
 
+## [0.1.20]
+
+- Change indent guide color to a more subtle color.
+
 ## [0.1.19]
 
-- Themed the new VSCode (1.18.o) feature Git decorations in the file explorer.
+- Themed the new VSCode (1.18.0) feature Git decorations in the file explorer.
 
 ## [0.1.18]
 
