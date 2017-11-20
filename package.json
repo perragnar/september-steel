@@ -6,34 +6,24 @@
         "type": "git",
         "url": "https://github.com/perragnar/september-steel"
     },
-    "version": "0.1.19",
+    "version": "0.1.21",
     "preview": true,
     "publisher": "perragnaredin",
     "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.12.0"
     },
-    "categories": [
-        "Themes"
-    ],
+    "categories": ["Themes"],
     "galleryBanner": {
         "color": "#2f333d",
         "theme": "dark"
     },
-    "keywords": [
-        "flat",
-        "theme",
-        "dark",
-        "steel",
-        "one monokai"
-    ],
+    "keywords": ["flat", "theme", "dark", "steel", "one monokai"],
     "contributes": {
-        "themes": [
-            {
-                "label": "September Steel",
-                "uiTheme": "vs-dark",
-                "path": "./themes/September Steel-color-theme.json"
-            }
-        ]
+        "themes": [{
+            "label": "September Steel",
+            "uiTheme": "vs-dark",
+            "path": "./themes/September Steel-color-theme.json"
+        }]
     }
 }

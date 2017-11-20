@@ -1,5 +1,10 @@
 # Change Log
 
+## [0.1.21]
+
+- Made punctuation slightly darker than plain text color.
+- Highlighting functions and function calls in Python. Thanks to [Donato Aguirre](https://github.com/donatoaguirre24).
+
 ## [0.1.20]
 
 - Change indent guide color to a more subtle color.
@@ -7,6 +12,7 @@
 ## [0.1.19]
 
 - Themed the new VSCode (1.18.0) feature Git decorations in the file explorer.
+
 
 ## [0.1.18]
 
