@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.22]
+
+- Change color when hovering tabs.
+
 ## [0.1.21]
 
 - Made punctuation slightly darker than plain text color.
