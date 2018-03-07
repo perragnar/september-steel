@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.23]
+
+- Highligting current line number.
+
 ## [0.1.22]
 
 - Change color when hovering tabs.
