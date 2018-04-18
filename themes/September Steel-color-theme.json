@@ -107,7 +107,7 @@
     "gitDecoration.modifiedResourceForeground": "#e5c07b",
     "gitDecoration.untrackedResourceForeground": "#98c379",
     "gitDecoration.conflictingResourceForeground": "#ff7300",
-    "editorActiveLineNumber.foreground": "#d1d5e488"
+    "editorLineNumber.activeForeground": "#d1d5e488"
   },
   "tokenColors": [
     {
