@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.25]
+
+- Changed a deprecated theme setting.
+
 ## [0.1.24]
 
 - Added terminal border color. Thanks to [Eren Hatırnaz](https://github.com/erenhatirnaz).
