@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.26]
+
+- Added support for highlighted indent guides.
+
 ## [0.1.25]
 
 - Changed a deprecated theme setting.
