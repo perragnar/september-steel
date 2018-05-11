@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.27]
+
+- Indent guides are now lighter and easier to see.
+
 ## [0.1.26]
 
 - Added support for highlighted indent guides.
