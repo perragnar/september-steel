@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.28]
+
+- Just som minor tweaks to shadows and removed active tab border.
+
 ## [0.1.27]
 
 - Indent guides are now lighter and easier to see.
