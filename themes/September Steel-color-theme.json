@@ -25,7 +25,6 @@
     "editorCursor.background": "#ffffff",
     "editorCursor.foreground": "#009DFF",
     "editorError.foreground": "#c24038",
-    "editorGroup.background": "#181a1f",
     "editorGroup.border": "#23272e",
     "editorGroupHeader.tabsBackground": "#23272E",
     "editorGroupHeader.tabsBorder": "#23272E",
@@ -110,8 +109,7 @@
     "gitDecoration.conflictingResourceForeground": "#ff7300",
     "editorLineNumber.activeForeground": "#d1d5e488"
   },
-  "tokenColors": [
-    {
+  "tokenColors": [{
       "settings": {
         "foreground": "#bbbbbbff"
       }
