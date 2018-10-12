@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.29]
+
+- Fix: Update scope names of list style and inline code in Markdown [#4](https://github.com/perragnar/september-steel/pull/4). Thanks [reiscigit](https://github.com/reiscigit)!
+
 ## [0.1.28]
 
 - Just som minor tweaks to shadows and removed active tab border.
