@@ -2,6 +2,10 @@
   "name": "September Steel",
   "type": "dark",
   "colors": {
+    "breadcrumb.background": "#23272E",
+    "breadcrumb.foreground": "#576172",
+    "breadcrumb.focusForeground": "#ffffff",
+    "breadcrumb.activeSelectionForeground": "#ffffff",
     "tab.activeBorder": "#2F333D",
     "scrollbar.shadow": "#00000033",
     "widget.shadow": "#00000033",
