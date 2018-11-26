@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.31]
+
+- Changed the peek view match background.
+
 ## [0.1.30]
 
 - Added styling for the breadcrumb section.
