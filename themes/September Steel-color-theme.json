@@ -237,7 +237,7 @@
       "name": "Keyword Operator",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#e06c75"
+        "foreground": "#b5bfcf"
       }
     },
     {

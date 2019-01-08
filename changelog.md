@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.32]
+
+- Changed color of keyword.operator to a light gray.
+
 ## [0.1.31]
 
 - Changed the peek view match background.
