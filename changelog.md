@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.33]
+
+- Change tree indent guide color.
+
 ## [0.1.32]
 
 - Changed color of keyword.operator to a light gray.

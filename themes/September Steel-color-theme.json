@@ -106,6 +106,7 @@
     "titleBar.border": "#23272E",
     "titleBar.inactiveBackground": "#282c34",
     "titleBar.inactiveForeground": "#6b717d",
+    "tree.indentGuidesStroke": "#646872",
     "gitDecoration.ignoredResourceForeground": "#535964",
     "gitDecoration.deletedResourceForeground": "#da0f00",
     "gitDecoration.modifiedResourceForeground": "#e5c07b",
