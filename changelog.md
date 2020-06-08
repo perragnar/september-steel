@@ -1,5 +1,9 @@
 # Change Log
 
+## [0.1.34]
+
+- Change statusbar remote background and forground colors. [#6](https://github.com/perragnar/september-steel/pull/6). Thanks to [nicooprat](https://github.com/nicooprat) for the PR!
+
 ## [0.1.33]
 
 - Change tree indent guide color.
