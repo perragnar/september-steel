@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.0]
+
+- Added another version of the theme: September Steel - 2021.
+- Bumped to version 1.0. 🎉
+
 ## [0.1.34]
 
 - Change statusbar remote background and forground colors. [#6](https://github.com/perragnar/september-steel/pull/6). Thanks to [nicooprat](https://github.com/nicooprat) for the PR!

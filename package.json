@@ -1,13 +1,12 @@
 {
     "name": "september-steel",
     "displayName": "September Steel",
-    "description": "A dark flat theme based on One Monokai Theme by Joshua Azemoh.",
+    "description": "A dark flat theme based on One Monokai Theme by Joshua Azemoh. The 2021 version is inspired by Nord Operator Theme by Chad.",
     "repository": {
         "type": "git",
         "url": "https://github.com/perragnar/september-steel"
     },
-    "version": "0.1.34",
-    "preview": false,
+    "version": "1.0.0",
     "publisher": "perragnaredin",
     "icon": "images/icon.png",
     "engines": {
@@ -25,7 +24,8 @@
         "theme",
         "dark",
         "steel",
-        "one monokai"
+        "one monokai",
+        "nord operator theme"
     ],
     "contributes": {
         "themes": [
@@ -33,6 +33,11 @@
                 "label": "September Steel",
                 "uiTheme": "vs-dark",
                 "path": "./themes/September Steel-color-theme.json"
+            },
+            {
+                "label": "September Steel - 2021",
+                "uiTheme": "vs-dark",
+                "path": "./themes/September Steel-color-theme-2021.json"
             }
         ]
     }

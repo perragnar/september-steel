@@ -1,6 +1,6 @@
 # September Steel
 
-**September Steel** is a dark theme for Visual Studio Code based on [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) by [Joshua Azemoh](https://marketplace.visualstudio.com/search?term=publisher%3A%22Joshua%20Azemoh%22&target=VSCode).
+**September Steel** is a collection of currently two dark theme for Visual Studio Code.
 
 Enjoy!
 
@@ -36,4 +36,11 @@ Enjoy!
 
 **September Steel** is based on [One Monokai Theme](https://marketplace.visualstudio.com/items?itemName=azemoh.one-monokai) by [Joshua Azemoh](https://marketplace.visualstudio.com/search?term=publisher%3A%22Joshua%20Azemoh%22&target=VSCode).
 
+**September Steel - 2021** is based on [Nord Operator Theme](https://marketplace.visualstudio.com/items?itemName=Chad.nord-operator-theme) by [Chad](https://marketplace.visualstudio.com/publishers/Chad).
+
 The icon theme in the screenshot is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) by [Philipp Kief](https://marketplace.visualstudio.com/search?term=publisher%3A%22Philipp%20Kief%22&target=VSCode&category=All%20categories&sortBy=Relevance).
+
+
+## To Do:
+
+Update four years old screenshots and add more screenshots of September Steel - 2021.
