@@ -45,6 +45,7 @@
     "editorSuggestWidget.selectedBackground": "#1B80B2",
     "editorWhitespace.foreground": "#3b4048",
     "editorWidget.background": "#21252b",
+    "editorPane.background": "#2a2f38",
     "gitDecoration.conflictingResourceForeground": "#ff7300",
     "gitDecoration.deletedResourceForeground": "#da0f00",
     "gitDecoration.ignoredResourceForeground": "#535964",

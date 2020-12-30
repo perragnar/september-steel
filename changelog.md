@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.4]
+
+- Change background color of editorPane.
+
 ## [1.0.3]
 
 - Change breadcrumbs background color.
