@@ -1,5 +1,10 @@
 # Change Log
 
+## [1.0.3]
+
+- Change breadcrumbs background color.
+- Change tab background and foreground colors.
+
 ## [1.0.2]
 
 - Fix missing comma error.
@@ -78,7 +83,6 @@
 
 - Themed the new VSCode (1.18.0) feature Git decorations in the file explorer.
 
-
 ## [0.1.18]
 
 - Removed VSCode Insiders git colors for Git decorations. Waiting until october release is out.
@@ -139,7 +143,7 @@
 
 ## [0.1.2]
 
-- More Markdown syntax highlighting. Used http://www.markitdown.net/markdown as reference.
+- More Markdown syntax highlighting. Used [http://www.markitdown.net/markdown](http://www.markitdown.net/markdown) as reference.
 - Easier to see highlighted rows in `editorSuggestWidget.selectedBackground` and `list.focusBackground"`.
 
 ## [0.1.1]
