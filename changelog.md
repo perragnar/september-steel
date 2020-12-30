@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.2]
+
+- Fix missing comma error.
+
+## [1.0.1]
+
+- Change selection background color.
+
 ## [1.0.0]
 
 - Added another version of the theme: September Steel - 2021.

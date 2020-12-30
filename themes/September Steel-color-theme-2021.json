@@ -36,7 +36,7 @@
     "editorHoverWidget.border": "#181a1f",
     "editorIndentGuide.activeBackground": "#646872",
     "editorIndentGuide.background": "#3F434C",
-    "editorLineNumber.activeForeground": "#d1d5e488"
+    "editorLineNumber.activeForeground": "#d1d5e488",
     "editorLineNumber.foreground": "#495162",
     "editorRuler.foreground": "#484848",
     "editorSuggestWidget.background": "#21252b",
@@ -115,7 +115,7 @@
     "titleBar.inactiveBackground": "#282c34",
     "titleBar.inactiveForeground": "#6b717d",
     "tree.indentGuidesStroke": "#646872",
-    "widget.shadow": "#00000033",
+    "widget.shadow": "#00000033"
   },
   "tokenColors": [
     {
