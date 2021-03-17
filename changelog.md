@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.5]
+
+- Change selection and selection highlight colors to fix low contrast issue with comments.
+
 ## [1.0.4]
 
 - Change background color of editorPane.

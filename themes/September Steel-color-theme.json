@@ -21,8 +21,9 @@
     "editor.findMatchHighlightBackground": "#0087FF55",
     "editor.hoverHighlightBackground": "#a53500",
     "editor.lineHighlightBackground": "#383e4a",
-    "editor.selectionBackground": "#4e576b",
-    "editor.selectionHighlightBackground": "#00000044",
+    "editor.selectionBackground": "#3f4450",
+    "editor.selectionHighlightBackground": "#00000000",
+    "editor.selectionHighlightBorder": "#BF9900",
     "editorBracketMatch.background": "#a53500",
     "editorBracketMatch.border": "#a53500",
     "editorCodeLens.foreground": "#555B6E",
@@ -39,13 +40,13 @@
     "editorIndentGuide.background": "#3F434C",
     "editorLineNumber.activeForeground": "#d1d5e488",
     "editorLineNumber.foreground": "#495162",
+    "editorPane.background": "#2a2f38",
     "editorRuler.foreground": "#484848",
     "editorSuggestWidget.background": "#21252b",
     "editorSuggestWidget.border": "#181a1f",
     "editorSuggestWidget.selectedBackground": "#1B80B2",
     "editorWhitespace.foreground": "#3b4048",
     "editorWidget.background": "#21252b",
-    "editorPane.background": "#2a2f38",
     "gitDecoration.conflictingResourceForeground": "#ff7300",
     "gitDecoration.deletedResourceForeground": "#da0f00",
     "gitDecoration.ignoredResourceForeground": "#535964",
@@ -125,13 +126,14 @@
       }
     },
     {
-      "name": "Comment",
       "scope": [
         "comment",
-        "string.comment"
+        "punctuation.definition.comment",
+        "punctuation.end.definition.comment",
+        "punctuation.start.definition.comment"
       ],
       "settings": {
-        "foreground": "#5c6370",
+        "foreground": "#5b667c",
         "fontStyle": "italic"
       }
     },
