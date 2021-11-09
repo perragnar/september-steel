@@ -6,7 +6,7 @@
         "type": "git",
         "url": "https://github.com/perragnar/september-steel"
     },
-    "version": "1.0.5",
+    "version": "1.0.6",
     "publisher": "perragnaredin",
     "icon": "images/icon.png",
     "engines": {
@@ -20,12 +20,13 @@
         "theme": "dark"
     },
     "keywords": [
-        "flat",
         "theme",
         "dark",
         "steel",
         "one monokai",
-        "nord operator theme"
+        "nord operator theme",
+        "pastel",
+        "italic"
     ],
     "contributes": {
         "themes": [
@@ -38,6 +39,11 @@
                 "label": "September Steel - 2021",
                 "uiTheme": "vs-dark",
                 "path": "./themes/September Steel-color-theme-2021.json"
+            },
+            {
+                "label": "September Steel - 2021 italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/September Steel-color-theme-2021-italic.json"
             }
         ]
     }

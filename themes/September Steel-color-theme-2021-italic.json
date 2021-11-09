@@ -700,7 +700,8 @@
     {
       "scope": "text.html.basic constant.other.inline-data",
       "settings": {
-        "foreground": "#D08770"
+        "foreground": "#D08770",
+        "fontStyle": "italic"
       }
     },
     {
@@ -867,7 +868,8 @@
     {
       "scope": "source.css.scss variable.interpolation",
       "settings": {
-        "foreground": "#D8DEE9"
+        "foreground": "#D8DEE9",
+        "fontStyle": "italic"
       }
     },
     {
@@ -962,7 +964,8 @@
         "text.xml string.unquoted.cdata punctuation.definition.string"
       ],
       "settings": {
-        "foreground": "#D08770"
+        "foreground": "#D08770",
+        "fontStyle": "italic"
       }
     },
     {
@@ -1035,7 +1038,10 @@
         "modifier",
         "this",
         "comment"
-      ]
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
     }
   ]
 }

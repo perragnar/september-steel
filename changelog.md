@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.0.6]
+
+- September Steel 2021 now has a regular and an italic version.
+
 ## [1.0.5]
 
 - Change selection and selection highlight colors to fix low contrast issue with comments.
